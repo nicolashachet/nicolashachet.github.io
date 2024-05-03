@@ -1,0 +1,46 @@
+title: Nicolas Hachet
+description: Architecte d'entreprise
+baseurl: ""
+url: https://www.nicolashachet.com/
+
+#theme: cvless
+
+# site settings
+taglong: Architecte d'entreprise à Nantes
+tagshort: Architecte d'entreprise
+
+# author settings
+author:
+  name: Nicolas Hachet
+  email: contact@nicolashachet.com
+  website: www.nicolashachet.com
+photo: assets/files/nicolas-hachet.png
+address: Nantes, France
+phone:
+
+# social media links
+social:
+  #facebook: nicolashachet
+  github: nicolashachet
+  instagram: nicolashachet
+  linkedin: nicolashachet
+  #stackoverflow: 0000000/username
+  x: nicolashachet
+
+# build settings
+permalink: pretty
+exclude:
+  - docker-compose.yml
+  - LICENSE
+  - README.md
+  - .idea/
+  - backup/
+#   - .jekyll-cache/
+#   - gemfiles/
+#   - Gemfile
+#   - Gemfile.lock
+#   - node_modules/
+#   - vendor/bundle/
+#   - vendor/cache/
+#   - vendor/gems/
+#   - vendor/ruby/
