@@ -3,8 +3,6 @@ description: Architecte d'entreprise
 baseurl: ""
 url: https://nicolashachet.github.io/
 
-#theme: cvless
-
 # site settings
 taglong: Architecte d'entreprise à Nantes
 tagshort: Architecte d'entreprise
@@ -23,24 +21,15 @@ social:
   #facebook: nicolashachet
   github: nicolashachet
   instagram: nicolashachet
-  linkedin: nicolashachet
+  linkedin: nicolas-hachet
   #stackoverflow: 0000000/username
   x: nicolashachet
 
 # build settings
-permalink: pretty
+permalink: /:categories/:title # none # https://jekyllrb.com/docs/permalinks/#permalink-style-examples
 exclude:
   - docker-compose.yml
   - LICENSE
   - README.md
   - .idea/
   - backup/
-#   - .jekyll-cache/
-#   - gemfiles/
-#   - Gemfile
-#   - Gemfile.lock
-#   - node_modules/
-#   - vendor/bundle/
-#   - vendor/cache/
-#   - vendor/gems/
-#   - vendor/ruby/
