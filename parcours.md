@@ -24,7 +24,9 @@ Depuis 2011, j'ai également développé une activité complémentaire en **free
 
 ## Clients
 
-Difficile de lister l'ensemble des clients rencontrés depuis 2007. Voici quelques exemples de clients du grand ouest pour lesquels j'ai eu l'occasion de travailler :
+Difficile de lister l'ensemble des clients rencontrés depuis 2007. 
+
+Voici quelques exemples de clients du grand ouest pour lesquels j'ai eu l'occasion de travailler de près ou de loin :
 - La Poste (BGPN, i-team)
 - Orange
 - ADEME

@@ -1,11 +1,11 @@
+# site settings
 title: Nicolas Hachet
 description: Architecte d'entreprise
 baseurl: ""
 url: https://nicolashachet.github.io/
-
-# site settings
 taglong: Architecte d'entreprise à Nantes
 tagshort: Architecte d'entreprise
+ga: G-RWKL2Z7WQ7
 
 # author settings
 author:
