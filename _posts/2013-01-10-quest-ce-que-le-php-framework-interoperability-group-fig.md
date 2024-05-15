@@ -16,7 +16,7 @@ tags:
     - PHP
 ---
 
-Le **PHP Framework Interoperability Group** , ou PHP FIG pour les intimes, est un groupe de travail regroupant des **acteurs majeurs** du monde PHP. A ce jour constitué de 26 membres votants, le groupe a pour vocation de **discuter et valider les [recommandations PSR](https://blog.nicolashachet.com/2013/01/10/technologies/php/quest-ce-que-les-recommandations-psr/ "Les recommandations PHP")**. L’objectif est de jeter des ponts entre les différents projets et d’identifier des harmonisations possibles. Des membres de frameworks, CMS et composants PHP connus sont représentés parmi lesquels : Doctrine, PEAR, Joomla, Drupal, CakePHP, Symfony, Zend, etc.
+Le **PHP Framework Interoperability Group** , ou PHP FIG pour les intimes, est un groupe de travail regroupant des **acteurs majeurs** du monde PHP. A ce jour constitué de 26 membres votants, le groupe a pour vocation de **discuter et valider les [recommandations PSR](https://www.nicolashachet.com/blog/2013/01/10/technologies/php/quest-ce-que-les-recommandations-psr/ "Les recommandations PHP")**. L’objectif est de jeter des ponts entre les différents projets et d’identifier des harmonisations possibles. Des membres de frameworks, CMS et composants PHP connus sont représentés parmi lesquels : Doctrine, PEAR, Joomla, Drupal, CakePHP, Symfony, Zend, etc.
 
 Les discussions autours des PSR ne sont pas soumis à l’adhésion au groupe. Il est ainsi possible à n’importe qui de proposer ou de débattre une PSR. En revanche, la validation finale appartient aux membres du groupe.
 

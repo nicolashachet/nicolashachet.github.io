@@ -15,7 +15,7 @@ tags:
     - API
 ---
 
-J’ai déjà abordé la **conception d’API REST**, et notamment les [5 règles pour structurer votre API REST](https://blog.nicolashachet.com/developpement-php/larchitecture-rest-expliquee-en-5-regles/). Plutôt que de vous présenter une énième fois des concepts théoriques, cet article liste plusieurs **exemples d’implémentations d’API REST en PHP** avec les repos Github qui vont bien pour aller s’inspirer !
+J’ai déjà abordé la **conception d’API REST**, et notamment les [5 règles pour structurer votre API REST](https://www.nicolashachet.com/blog/developpement-php/larchitecture-rest-expliquee-en-5-regles/). Plutôt que de vous présenter une énième fois des concepts théoriques, cet article liste plusieurs **exemples d’implémentations d’API REST en PHP** avec les repos Github qui vont bien pour aller s’inspirer !
 
 ## Qu’est-ce qu’une API REST ?
 
@@ -234,4 +234,4 @@ J’espère que vous aurez trouvé votre bonheur pour construire votre API REST.
 
 A vous de choisir ce qui vous convient le mieux !
 
-N’hésitez pas à [commenter l’article](#disqus_thread) ou à me [contacter](https://blog.nicolashachet.com/contact/) pour présenter une meilleure solution.
+N’hésitez pas à [commenter l’article](#disqus_thread) ou à me [contacter](https://www.nicolashachet.com/blog/contact/) pour présenter une meilleure solution.

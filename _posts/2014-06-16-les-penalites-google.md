@@ -30,7 +30,7 @@ Effectivement Google aime les gens biens. Et on peut aisément se laisser prendr
 
 Vous l’aurez compris il faut être attentif pour ne pas se faire piéger. D’autant que les pénalités sont aussi bien automatiques via les mises à jour de l’algorithme de Google que [manuelles](https://www.journaldunet.com/solutions/seo-referencement/penalite-ou-action-manuelle-de-google-contre-le-referencement-d-un-site-web.shtml). Voici quelques conseils basiques pour éviter les pénalités :
 
-- Lisez le [guide Google sur le SEO](https://blog.nicolashachet.com/niveaux/debutant/seo-google-300-criteres-de-classements-pour-le-referencement/ "SEO Google : 300 critères de classements pour le référencement ?") et appliquez le,
+- Lisez le [guide Google sur le SEO](https://www.nicolashachet.com/blog/niveaux/debutant/seo-google-300-criteres-de-classements-pour-le-referencement/ "SEO Google : 300 critères de classements pour le référencement ?") et appliquez le,
 - Privilégiez le contenu vrai et unique,
 - N’achetez pas de liens entrants de mauvaise qualité,
 - Ne soumettez pas votre site dans des annuaires automatiques,

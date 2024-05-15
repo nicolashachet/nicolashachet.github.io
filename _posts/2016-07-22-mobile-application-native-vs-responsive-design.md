@@ -33,7 +33,7 @@ Concrètement le développement spécifique mobile offre une grande liberté sur
 
 L’autre solution est de rester sur un unique projet Web avec un design et des fonctionnalités qui s’adaptent aux périphériques qui le consultent. C’est le principe du design adaptatif, ou Responsive Design. Initialement, le Responsive Design se limitait au code CSS, c’est à dire à la **présentation** des éléments. Depuis quelques temps, il est également possible de modifier le **comportement** de votre site Web selon le type et la résolution du périphérique via des librairies Javascript.
 
-[→ En savoir plus sur les frameworks CSS compatible responsive design.](https://blog.nicolashachet.com/ergonomie-design/les-frameworks-css-responsive-design/)
+[→ En savoir plus sur les frameworks CSS compatible responsive design.](https://www.nicolashachet.com/blog/ergonomie-design/les-frameworks-css-responsive-design/)
 
 Ce fonctionnement a le gros avantage d’être moins coûteux par rapport à des applications natives. Attention cependant, car selon votre projet vous pourrez être limité en fonctionnalités et en performances sur ce qu’il est possible de faire ou non. Concrètement, oubliez la 3D et les interfaces trop riches. L’autre inconvénient est lié aux performances réseaux qui peuvent être aléatoires et changeantes sur périphérique mobile : imaginez le chargement d’un site Web de plusieurs mégas sur une connexion 2G…
 
@@ -41,6 +41,6 @@ Ce fonctionnement a le gros avantage d’être moins coûteux par rapport à des
 
 De mon point de vue, il est évident que **votre projet Web doit être responsive design**, que vous ayez des applications iOS/Android dédiées ou non. Ne vous privez pas d’un grand nombre de visiteurs accédant à vos contenus et services via les périphériques mobiles. Cette tendance ne fait que s’accentuer au fil du temps : ne pas prévoir ce type d’accès sur vos nouveaux projets Web est clairement hors sujet. D’autant plus que les technologies facilant la gestion du responsive existent et fonctionnent très bien.
 
-[→ Pourquoi le responsive design devrait être votre priorité ?](https://blog.nicolashachet.com/ergonomie-design/projet-web-pourquoi-le-responsive-design-devrait-etre-votre-priorite/)
+[→ Pourquoi le responsive design devrait être votre priorité ?](https://www.nicolashachet.com/blog/ergonomie-design/projet-web-pourquoi-le-responsive-design-devrait-etre-votre-priorite/)
 
 Concernant les applications natives, le choix est plus complexe. En effet, il est nécessaire de peser le pour et le contre, notamment sur les **coûts de conception, de développement et de maintenance.** Il s’agit de projets séparés, dédiés et devant être considéré comme tels, et non comme une simple déclinaison du site principal. Dès lors que vous aurez besoin de performances et de design, optez pour une application dédiée, par exemple pour les jeux ou pour des applications utilisant des composants du périphérique mobile.

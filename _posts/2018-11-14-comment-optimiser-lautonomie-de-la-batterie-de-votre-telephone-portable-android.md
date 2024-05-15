@@ -12,7 +12,7 @@ categories:
     - Smartphone
 ---
 
-Sur le marché de la téléphonie mobile, les smartphones sous Android sont très présents. Plébiscité par la plupart des marques, l’OS Android présente de nombreuses spécificités fortement appréciées par les utilisateurs. Mais cela ne signifie pas pour autant qu’il est sans défaut. Il présente une certaine faiblesse que chaque fabricant essaie tant bien que mal de corriger : il consomme beaucoup d’énergie. A l’instar des autres OS mobiles, les batteries des téléphones Android se déchargent rapidement, en particulier si vous employez la technique de [partage de connexion par Bluetooth](https://blog.nicolashachet.com/telephone/connecter-ordinateur-internet-via-4g-de-telephone-bluetooth/) que je vous décrivais dans un précédent article. Il convient donc d’avoir certains réflexes pour **augmenter la durée de vie de sa batterie**.
+Sur le marché de la téléphonie mobile, les smartphones sous Android sont très présents. Plébiscité par la plupart des marques, l’OS Android présente de nombreuses spécificités fortement appréciées par les utilisateurs. Mais cela ne signifie pas pour autant qu’il est sans défaut. Il présente une certaine faiblesse que chaque fabricant essaie tant bien que mal de corriger : il consomme beaucoup d’énergie. A l’instar des autres OS mobiles, les batteries des téléphones Android se déchargent rapidement, en particulier si vous employez la technique de [partage de connexion par Bluetooth](https://www.nicolashachet.com/blog/telephone/connecter-ordinateur-internet-via-4g-de-telephone-bluetooth/) que je vous décrivais dans un précédent article. Il convient donc d’avoir certains réflexes pour **augmenter la durée de vie de sa batterie**.
 
 ## L’arrêt des applications
 

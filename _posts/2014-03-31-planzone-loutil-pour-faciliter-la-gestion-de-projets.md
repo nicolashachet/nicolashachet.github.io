@@ -60,7 +60,7 @@ Planzone offre des connexions avec **Google Calendar** et **Google Drive** pour 
 
 [![planzone_open](/wp-content/uploads/2014/03/planzone_open.png)](/wp-content/uploads/2014/03/planzone_open.png)
 
-Bien que déjà très complet, Planzone offre également une [API Restful](https://blog.nicolashachet.com/niveaux/confirme/larchitecture-rest-expliquee-en-5-regles/ "L’architecture REST expliquée en 5 règles") permettant de connecter des applications tierces. Celles-ci peuvent alors récupérer des données issues de la base Planzone ou interagir avec l’outil. Vous trouverez les détails de cette API directement sur la plateforme DEV de Planzone : <https://dev.planzone.com/>
+Bien que déjà très complet, Planzone offre également une [API Restful](https://www.nicolashachet.com/blog/niveaux/confirme/larchitecture-rest-expliquee-en-5-regles/ "L’architecture REST expliquée en 5 règles") permettant de connecter des applications tierces. Celles-ci peuvent alors récupérer des données issues de la base Planzone ou interagir avec l’outil. Vous trouverez les détails de cette API directement sur la plateforme DEV de Planzone : <https://dev.planzone.com/>
 
 ## Une équipe à votre service
 
@@ -68,4 +68,4 @@ Enfin, l’équipe Planzone met l’accent sur le **service** et propose une [d�
 
 Coté tarif, l’accès à la solution [Planzone ](https://www.planzone.fr "Planzone")est gratuit pendant 14 jours puis vous sera ouvert pour 9.90€ / mois. Si vous souhaitez profiter des fonctionnalités de gestion de temps et de la consolidation multi-projets, comptez 179€ / mois.
 
-[Article sponsorisé](https://blog.nicolashachet.com/article-sponsorise/ "Article sponsorisé")
+[Article sponsorisé](https://www.nicolashachet.com/blog/article-sponsorise/ "Article sponsorisé")

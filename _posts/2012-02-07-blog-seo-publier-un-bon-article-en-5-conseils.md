@@ -25,7 +25,7 @@ Plus forte que des informations souvent éloignées des attentes internautes, l�
 - illustrer vos propos par un exemple concret
 - profiter des visiteurs s’intéressant à cette actualité
 
-Pour l’exemple, je prends un article paru sur mon blog qui traitait de la [réouverture hypothétique de megaupload](https://blog.nicolashachet.com/2012/01/21/fonctionnement-du-web/comment-megaupload-va-t-il-reouvrir-son-service-de-telechargement/ "Megaupload va-t-il rouvrir ?"). Le graphique suivant montre l’impact de la parution de l’article sur Google Analytics.
+Pour l’exemple, je prends un article paru sur mon blog qui traitait de la [réouverture hypothétique de megaupload](https://www.nicolashachet.com/blog/2012/01/21/fonctionnement-du-web/comment-megaupload-va-t-il-reouvrir-son-service-de-telechargement/ "Megaupload va-t-il rouvrir ?"). Le graphique suivant montre l’impact de la parution de l’article sur Google Analytics.
 
 [![Google Analytics](/wp-content/uploads/2012/02/google_analytics-1024x228.jpg "google_analytics")](/wp-content/uploads/2012/02/google_analytics.jpg)Google Analytics
 

@@ -33,7 +33,7 @@ Coté développement rapide d’applications, la version 2.4 de CakePHP tient to
 
 - support exclusif de PHP 5.4 ou +
 - ajout des namespaces (enfin !)
-- implémentation des[ recommandations PSR](https://blog.nicolashachet.com/technologies/php/quest-ce-que-les-recommandations-psr/ "Qu’est-ce que les recommandations PSR en PHP ?")
+- implémentation des[ recommandations PSR](https://www.nicolashachet.com/blog/technologies/php/quest-ce-que-les-recommandations-psr/ "Qu’est-ce que les recommandations PSR en PHP ?")
 - et bien d’autres choses que je vous invite à consulter sur la [roadmap CakePHP 3](https://github.com/cakephp/cakephp/wiki/3.0-Roadmap "CakePHP 3 Roadmap")…
 
 Bref, ça va bouger dans le bon sens du coté de CakePHP qui reste *techniquement* à la traîne par rapport à Symfony 2 ou Zend Framework 2.

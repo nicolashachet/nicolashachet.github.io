@@ -116,7 +116,7 @@ Voici les astuces pour **optimiser son code PHP** :
 - **++$i** et plus rapide que $i++
 - n’abusez pas de la Programmation Orientée Objet (POO), le **procédural** est plus rapide
 - utilisez le design pattern **singleton ou l’injection de dépendances**
-- [utilisez du **cache**](https://blog.nicolashachet.com/gestion-de-caches/optimisation-web-php-des-caches-a-tous-les-niveaux/ "Optimisation Web PHP : des caches à tous les niveaux")
+- [utilisez du **cache**](https://www.nicolashachet.com/blog/gestion-de-caches/optimisation-web-php-des-caches-a-tous-les-niveaux/ "Optimisation Web PHP : des caches à tous les niveaux")
 - utilisez du cache **!**
 - utilisez du cache **!!!**
 

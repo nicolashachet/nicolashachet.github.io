@@ -53,7 +53,7 @@ Des alternatives comme [Python ](https://www.python.org/)ou [Ruby On Rails](http
 - sa large communauté;
 - ses composants tiers issus de la communauté.
 
-Que vous [choisissiez des frameworks](https://blog.nicolashachet.com/technologies/php/pourquoi-utiliser-un-framework-php/ "Pourquoi utiliser un framework PHP ?") comme **Symfony, CakePHP, Zend** ou autre, PHP reste la référence du **développement Web**. Ce discours prêche évidement pour ma paroisse mais je crois réellement que PHP est le parfait allié de vos [projets Web pour 2014](https://blog.nicolashachet.com/technologies/php/quel-framework-php-pour-2014/ "Quel framework PHP pour 2014 ?").
+Que vous [choisissiez des frameworks](https://www.nicolashachet.com/blog/technologies/php/pourquoi-utiliser-un-framework-php/ "Pourquoi utiliser un framework PHP ?") comme **Symfony, CakePHP, Zend** ou autre, PHP reste la référence du **développement Web**. Ce discours prêche évidement pour ma paroisse mais je crois réellement que PHP est le parfait allié de vos [projets Web pour 2014](https://www.nicolashachet.com/blog/technologies/php/quel-framework-php-pour-2014/ "Quel framework PHP pour 2014 ?").
 
 ## La stack PHP 2014
 

@@ -16,7 +16,7 @@ tags:
     - Windows
 ---
 
-Lors du [partage d’une connexion Internet via son téléphone portable](https://blog.nicolashachet.com/telephone/connecter-son-ordinateur-a-internet-via-la-4g-de-son-telephone/), il est possible de rencontrer une erreur indiquant "**Pas d’Internet**" dans la barre de notifications Windows alors que la connexion Wifi a bien été effectuée. Je suis récemment tombé sur ce problème, voici donc la solution pour récupérer Internet via son smartphone.
+Lors du [partage d’une connexion Internet via son téléphone portable](https://www.nicolashachet.com/blog/telephone/connecter-son-ordinateur-a-internet-via-la-4g-de-son-telephone/), il est possible de rencontrer une erreur indiquant "**Pas d’Internet**" dans la barre de notifications Windows alors que la connexion Wifi a bien été effectuée. Je suis récemment tombé sur ce problème, voici donc la solution pour récupérer Internet via son smartphone.
 
 ## Étapes pour résoudre le problème "Pas d’Internet"
 

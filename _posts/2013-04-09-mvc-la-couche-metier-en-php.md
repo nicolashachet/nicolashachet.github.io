@@ -58,7 +58,7 @@ Notez bien que les services métiers ne correspondent pas forcément à des mod�
 
 L’écriture d’une couche métier suit plusieurs règles :
 
-- garder à l’esprit que cette couche est **purement métier**, il est donc déconseillé d’interagir directement avec le [*framework* utilisé](https://blog.nicolashachet.com/2013/04/05/technologies/php/pourquoi-utiliser-un-framework-php/ "Pourquoi utiliser un framework PHP ?"). Dans l’absolu, il devrait être possible de **changer de framework sans changer une ligne de code de la couche métier.** L’*injection de dépendances* est une réponse à cette problématique **;**
+- garder à l’esprit que cette couche est **purement métier**, il est donc déconseillé d’interagir directement avec le [*framework* utilisé](https://www.nicolashachet.com/blog/2013/04/05/technologies/php/pourquoi-utiliser-un-framework-php/ "Pourquoi utiliser un framework PHP ?"). Dans l’absolu, il devrait être possible de **changer de framework sans changer une ligne de code de la couche métier.** L’*injection de dépendances* est une réponse à cette problématique **;**
 - la couche métier est organisée en **service métier** qui peuvent s’appeler les uns les autres, il est également possible d’appeler des **services techniques** (ex : envoi de mails, logs, etc.) ;
 - les exceptions PHP apportent de la souplesse à la gestion des erreurs.
 

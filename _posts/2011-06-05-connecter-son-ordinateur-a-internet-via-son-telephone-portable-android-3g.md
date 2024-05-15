@@ -52,7 +52,6 @@ EasyTether est disponible en 2 versions : l’une gratuite, l’autre payante. L
 
 ## Si vous rencontrez un 403 forbidden avec EasyTether…
 
-Merci à Nicolas pour sa contribution (voir [les commentaires](https://blog.nicolashachet.com/2011/06/05/niveaux/debutant/connecter-son-ordinateur-a-internet-via-son-telephone-portable-android-3g/#comment-53)).  
 Certains opérateurs semblent bloquer le traffic 3G ne provenant de téléphones portables. Pour cela, la solution consiste à masquer son véritable navigateur en modifiant le ‘User Agent’ des requêtes HTTP. Le [plugin Firefox User agent Switcher](https://addons.mozilla.org/fr/firefox/addon/user-agent-switcher/) le fait pour vous.
 
 1. installer le plugin : [plugin Firefox User agent Switcher](https://addons.mozilla.org/fr/firefox/addon/user-agent-switcher/)

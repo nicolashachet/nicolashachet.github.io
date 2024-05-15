@@ -16,7 +16,7 @@ tags:
     - 'Architecture Technique'
 ---
 
-J’ai déjà parlé d’[optimisation de site Web](https://blog.nicolashachet.com/fonctionnement-du-web/optimiser-les-performances-de-son-site-web-google/ "Optimiser les performances de son site Web") et d’[optimisation de code source PHP](https://blog.nicolashachet.com/technologies/php/optimiser-les-performances-de-son-code-php/ "Optimiser les performances de son code PHP"). Sachez qu’il est également possible de mettre en place une **stratégie de caching pour accélérer son site Web**. Voici les niveaux de cache sur lesquels vous pouvez jouer lorsque vous développez ou optimisez une application **PHP**.
+J’ai déjà parlé d’[optimisation de site Web](https://www.nicolashachet.com/blog/fonctionnement-du-web/optimiser-les-performances-de-son-site-web-google/ "Optimiser les performances de son site Web") et d’[optimisation de code source PHP](https://www.nicolashachet.com/blog/technologies/php/optimiser-les-performances-de-son-code-php/ "Optimiser les performances de son code PHP"). Sachez qu’il est également possible de mettre en place une **stratégie de caching pour accélérer son site Web**. Voici les niveaux de cache sur lesquels vous pouvez jouer lorsque vous développez ou optimisez une application **PHP**.
 
 Cet article traite des caches suivants :
 
@@ -53,7 +53,7 @@ Le gain en terme de performance est réellement significatif.
 
 Pour mettre en oeuvre un cache serveur, vous pouvez vous tourner vers ces technologies :
 
-- <span style="line-height: 13px;">l’extension [APC pour PHP](https://blog.nicolashachet.com/technologies/php/installer-le-bon-php_apc-dll-sous-windows-7-x64-et-corriger-les-erreurs/ "Installer le bon php_apc.dll sous Windows 7 (x64) et corriger les erreurs") (opcode cache)</span>
+- <span style="line-height: 13px;">l’extension [APC pour PHP](https://www.nicolashachet.com/blog/technologies/php/installer-le-bon-php_apc-dll-sous-windows-7-x64-et-corriger-les-erreurs/ "Installer le bon php_apc.dll sous Windows 7 (x64) et corriger les erreurs") (opcode cache)</span>
 - [PHP 5.5](https://php.net/manual/fr/migration55.changes.php) qui intégrera Zend Optimizer + en natif
 - [XCache](https://xcache.lighttpd.net/)
 

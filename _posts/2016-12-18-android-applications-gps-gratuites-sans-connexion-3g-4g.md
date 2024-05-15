@@ -16,7 +16,7 @@ tags:
     - GPS
 ---
 
-Il y a quelques années, je vous présentais [Mappy GPS Free](https://blog.nicolashachet.com/telephone/installer-un-systeme-de-navigation-gps-gratuit-sans-connexion-3g-sur-votre-smartphone-android-mappy-gps-free/), application Android gratuite permettant d’installer un **GPS sur votre smartphone** sans nécessairement être connecté aux réseaux 3G ou 4G. Petit update 2016 pour vous présenter aujourd’hui 5 **applications GPS gratuites pour Android** qui permettront de vous guider sans avoir besoin de télécharger les cartes au fur et à mesure de vos trajets. Votre forfait smartphone et vos données mobiles vous en seront reconnaissant ! Exit les frais de téléchargement et les trajets stressés grâce cette sélection d’**applications de navigations gratuites sans Internet**.
+Il y a quelques années, je vous présentais [Mappy GPS Free](https://www.nicolashachet.com/blog/telephone/installer-un-systeme-de-navigation-gps-gratuit-sans-connexion-3g-sur-votre-smartphone-android-mappy-gps-free/), application Android gratuite permettant d’installer un **GPS sur votre smartphone** sans nécessairement être connecté aux réseaux 3G ou 4G. Petit update 2016 pour vous présenter aujourd’hui 5 **applications GPS gratuites pour Android** qui permettront de vous guider sans avoir besoin de télécharger les cartes au fur et à mesure de vos trajets. Votre forfait smartphone et vos données mobiles vous en seront reconnaissant ! Exit les frais de téléchargement et les trajets stressés grâce cette sélection d’**applications de navigations gratuites sans Internet**.
 
 ## GPS Android sans téléchargement de cartes
 

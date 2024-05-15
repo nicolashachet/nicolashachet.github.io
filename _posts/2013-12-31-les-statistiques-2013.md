@@ -14,7 +14,7 @@ categories:
     - Actualités
 ---
 
-Pour ce dernier article de l’année, je vous propose un récapitulatif de quelques statistiques du blog sur l’année 2013 écoulée. Les données sont issues de Google Analytics. Depuis 2011, [le blog de Nicolas Hachet](https://blog.nicolashachet.com "Le Blog PHP de Nicolas Hachet") vous propose des articles liés aux nouvelles technologies de l’information et de la communication (NTIC) ainsi que des articles techniques sur [PHP](https://blog.nicolashachet.com/tag/php-2/ "Tag PHP") et ses frameworks (Symfony, CakePHP notamment).
+Pour ce dernier article de l’année, je vous propose un récapitulatif de quelques statistiques du blog sur l’année 2013 écoulée. Les données sont issues de Google Analytics. Depuis 2011, [le blog de Nicolas Hachet](https://blog.nicolashachet.com "Le Blog PHP de Nicolas Hachet") vous propose des articles liés aux nouvelles technologies de l’information et de la communication (NTIC) ainsi que des articles techniques sur [PHP](https://www.nicolashachet.com/blog/tag/php-2/ "Tag PHP") et ses frameworks (Symfony, CakePHP notamment).
 
 [![blog-nicolashachet-stats-1](/wp-content/uploads/2013/12/blog-nicolashachet-stats-1.png)](/wp-content/uploads/2013/12/blog-nicolashachet-stats-1.png)
 

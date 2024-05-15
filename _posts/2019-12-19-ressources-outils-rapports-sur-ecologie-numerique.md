@@ -15,7 +15,7 @@ categories:
 
 Pour la majorité de la population, la prise en conscience sur la **dégradation climatique** est récente, voire encore inexistante. Le numérique ne déroge pas à la règle et, du fait du caractère invisible de son impact, accuse un retard très important dans ce domaine. Il n’est pas toujours simple de trouver de l’information, et la sensibilisation n’en est qu’à son balbutiement. Pour alimenter votre réflexion sur l’impact de l’informatique sur le climat, je vous compile ici **quelques outils et ressources pour comprendre et appréhender l’écologie numérique**.
 
-N’hésitez pas à m’envoyer vos ressources, outils et rapports pour alimenter cet article, par [mail ](https://blog.nicolashachet.com/contact/)ou en [commentaire](#disqus_thread).
+N’hésitez pas à m’envoyer vos ressources, outils et rapports pour alimenter cet article, par [mail ](https://www.nicolashachet.com/blog/contact/)ou en [commentaire](#disqus_thread).
 
 ## Ressources et rapports sur l’écologie numérique
 

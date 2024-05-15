@@ -63,4 +63,4 @@ Vous devriez y trouver un fichier **workbench.xmi** : supprimez-le et relancez E
 
 ## Des problèmes de lenteurs sur Eclipse 4 (Juno) ?
 
-Vous avez des [problèmes de lenteurs sur Eclipse Juno ? Un patch existe, voyez cet article.](https://blog.nicolashachet.com/2013/02/18/ide/eclipse/ameliorer-les-performances-declipse-4-x-juno/ "Améliorer les performances d’Eclipse 4.x (Juno)")
+Vous avez des [problèmes de lenteurs sur Eclipse Juno ? Un patch existe, voyez cet article.](https://www.nicolashachet.com/blog/2013/02/18/ide/eclipse/ameliorer-les-performances-declipse-4-x-juno/ "Améliorer les performances d’Eclipse 4.x (Juno)")

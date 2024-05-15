@@ -48,4 +48,4 @@ Vous trouverez facilement et rapidement la station qui propose les tarifs les pl
 
 Et vous, avez-vous des **applications Android** fétiches dont vous ne pouvez plus vous passer lors de vos **déplacements** ?
 
-<small><small>[Article sponsorisé](https://blog.nicolashachet.com/article-sponsorise/ "Article sponsorisé")</small><small></small></small>
+<small><small>[Article sponsorisé](https://www.nicolashachet.com/blog/article-sponsorise/ "Article sponsorisé")</small><small></small></small>

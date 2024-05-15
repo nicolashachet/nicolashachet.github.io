@@ -12,7 +12,7 @@ categories:
     - 'GreenIT'
 ---
 
-Dans le premier article consacré à l’[écologie numérique](https://blog.nicolashachet.com/category/ecologie/), nous avons vu qu’[un site Web ne peut pas être réellement écologique](https://blog.nicolashachet.com/ecologie/quest-ce-quun-site-internet-ecologique/). Nous pouvons simplement limiter la consommation d’énergie du site ou de l’application Web, ce qu’on appelle également la **sobriété numérique**. Cet article a pour but de vous donner quelques pistes pour intégrer l’écologie dès la conception de son site Web. **Comment conçoit-on un site Web écologique ?**
+Dans le premier article consacré à l’[écologie numérique](https://www.nicolashachet.com/blog/category/ecologie/), nous avons vu qu’[un site Web ne peut pas être réellement écologique](https://www.nicolashachet.com/blog/ecologie/quest-ce-quun-site-internet-ecologique/). Nous pouvons simplement limiter la consommation d’énergie du site ou de l’application Web, ce qu’on appelle également la **sobriété numérique**. Cet article a pour but de vous donner quelques pistes pour intégrer l’écologie dès la conception de son site Web. **Comment conçoit-on un site Web écologique ?**
 
 ## Qu’est-ce que l’écoconception ?
 
@@ -81,6 +81,6 @@ Et vous, avez-vous déjà pris en compte l’écologie dans vos projets informat
 
 ## A suivre
 
-[Bonnes pratiques pour développer un site Web écologique](https://blog.nicolashachet.com/ecologie/bonnes-pratiques-pour-developper-un-site-web-ecologique/)
+[Bonnes pratiques pour développer un site Web écologique](https://www.nicolashachet.com/blog/ecologie/bonnes-pratiques-pour-developper-un-site-web-ecologique/)
 
 <iframe class="wp-embedded-content" data-secret="ab8lrZgh3S" frameborder="0" height="338" marginheight="0" marginwidth="0" sandbox="allow-scripts" scrolling="no" security="restricted" src="https://blog.nicolashachet.com/ecologie/bonnes-pratiques-pour-developper-un-site-web-ecologique/embed/#?secret=ab8lrZgh3S" style="position: absolute; clip: rect(1px, 1px, 1px, 1px);" title="Bonnes pratiques pour développer un site Web écologique — Blog de Nicolas Hachet" width="600"></iframe>

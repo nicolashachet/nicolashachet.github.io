@@ -17,7 +17,7 @@ tags:
     - PHP
 ---
 
-Il y a quelques jours, je vous listais des [fournisseurs de services de paiement (PSP)](https://blog.nicolashachet.com/e-commerce/quels-systemes-de-paiement-psp-projet-web/) permettant d’accepter les paiements en ligne sur votre boutique e-commerce. Je continue sur le même sujet en vous présentant quelques kits de développements PHP pour gérer les paiements. J’ai retenu 7 prestataires de paiement :
+Il y a quelques jours, je vous listais des [fournisseurs de services de paiement (PSP)](https://www.nicolashachet.com/blog/e-commerce/quels-systemes-de-paiement-psp-projet-web/) permettant d’accepter les paiements en ligne sur votre boutique e-commerce. Je continue sur le même sujet en vous présentant quelques kits de développements PHP pour gérer les paiements. J’ai retenu 7 prestataires de paiement :
 
 - PayPal
 - MangoPay

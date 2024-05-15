@@ -14,7 +14,7 @@ tags:
     - CakePHP
 ---
 
-En 2011, nous avions vu comment [récupérer les requêtes exécutées sous CakePHP 1](https://blog.nicolashachet.com/2011/05/24/niveaux/debutant/cakephp-recuperer-les-requetes-sql-executees-lors-du-traitement-dune-action/) lors du traitement d’une action. Aujourd’hui même combat mais sous Cake 2 !
+En 2011, nous avions vu comment [récupérer les requêtes exécutées sous CakePHP 1](https://www.nicolashachet.com/blog/2011/05/24/niveaux/debutant/cakephp-recuperer-les-requetes-sql-executees-lors-du-traitement-dune-action/) lors du traitement d’une action. Aujourd’hui même combat mais sous Cake 2 !
 
 Ainsi vous pouvez ajouter une fonction dans le fichier **AppModel** :  
 {% highlight php linenos %}  

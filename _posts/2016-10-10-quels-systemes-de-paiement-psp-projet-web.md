@@ -25,7 +25,7 @@ Les **prestataires de paiement**, ou **PSP** pour Payment Service Provide, perme
 
 ## Stripe
 
-[![stripe](/wp-content/uploads/2016/09/stripe.jpg)](/wp-content/uploads/2016/09/stripe.jpg)Stripe est un prestataire de paiement qui s’est fait un nom grâce à son système de paiement en marque blanche. Concrètement, Stripe fournit une [API REST](https://blog.nicolashachet.com/niveaux/confirme/larchitecture-rest-expliquee-en-5-regles/) permettant d’accepter des paiements depuis de nombreux pays via différents types de carte : CB, Visa et American Express (Amex) notamment. Les coûts réduits (1.4% + 0.25€ / transaction) ont achevé d’en faire, à mon sens, l’autre incontournable des PSP.
+[![stripe](/wp-content/uploads/2016/09/stripe.jpg)](/wp-content/uploads/2016/09/stripe.jpg)Stripe est un prestataire de paiement qui s’est fait un nom grâce à son système de paiement en marque blanche. Concrètement, Stripe fournit une [API REST](https://www.nicolashachet.com/blog/niveaux/confirme/larchitecture-rest-expliquee-en-5-regles/) permettant d’accepter des paiements depuis de nombreux pays via différents types de carte : CB, Visa et American Express (Amex) notamment. Les coûts réduits (1.4% + 0.25€ / transaction) ont achevé d’en faire, à mon sens, l’autre incontournable des PSP.
 
 ## MangoPay
 

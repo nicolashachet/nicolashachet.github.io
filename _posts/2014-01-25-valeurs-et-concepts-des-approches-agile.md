@@ -31,7 +31,7 @@ J’ai récemment participé à une formation sur le **développement AGILE** do
 
 Le sujet étant vaste, je vous propose une série d’articles sur l’Agilité :
 
-- [Valeurs et concepts des approches AGILE](https://blog.nicolashachet.com/gestion-de-projets/valeurs-et-concepts-des-approches-agile/)
+- [Valeurs et concepts des approches AGILE](https://www.nicolashachet.com/blog/gestion-de-projets/valeurs-et-concepts-des-approches-agile/)
 - Projets AGILE : approches SCRUM et Extrem Programming
 
 [![manifeste-AGILE](/wp-content/uploads/2014/01/manifeste-AGILE.jpg)](/wp-content/uploads/2014/01/manifeste-AGILE.jpg)

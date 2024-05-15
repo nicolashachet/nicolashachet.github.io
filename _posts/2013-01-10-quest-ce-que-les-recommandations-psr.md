@@ -15,7 +15,7 @@ tags:
     - PHP
 ---
 
-Les **PSR** (pour "Propose a Standards Recommendation") sont des **recommandations** validées par le [PHP Framework Interoperability Group](https://blog.nicolashachet.com/2013/01/10/technologies/php/quest-ce-que-le-php-framework-interoperability-group-fig/ "PHP Framework Interoperability Group") (PHP fig :[ site officiel](https://github.com/php-fig/fig-standards/blob/master/README.md "PHP fig")) ayant pour objectif d’améliorer l’interopérabilité entre les frameworks PHP, et plus généralement entre les développeurs PHP. Il ne s’agit aucunement de normes ou de standards *établis* mais de recommandations qui tendent à le devenir. D’un sens, les PSR sont similaires aux RFC (Request For Comment) qui régulent désormais le monde des réseaux.
+Les **PSR** (pour "Propose a Standards Recommendation") sont des **recommandations** validées par le [PHP Framework Interoperability Group](https://www.nicolashachet.com/blog/2013/01/10/technologies/php/quest-ce-que-le-php-framework-interoperability-group-fig/ "PHP Framework Interoperability Group") (PHP fig :[ site officiel](https://github.com/php-fig/fig-standards/blob/master/README.md "PHP fig")) ayant pour objectif d’améliorer l’interopérabilité entre les frameworks PHP, et plus généralement entre les développeurs PHP. Il ne s’agit aucunement de normes ou de standards *établis* mais de recommandations qui tendent à le devenir. D’un sens, les PSR sont similaires aux RFC (Request For Comment) qui régulent désormais le monde des réseaux.
 
 A ce jour, les [recommandations PSR validées](https://github.com/php-fig/fig-standards/tree/master/accepted "PSR validées") sont aux nombres de 4 :
 

@@ -15,7 +15,7 @@ tags:
     - PHP
 ---
 
-Dans le cadre de mon activité en [centre de service PHP](https://blog.nicolashachet.com/gestion-de-projets/ssii-et-centre-de-services-php/ "SSII et centre de services PHP"), je réalise régulièrement des **audits de codes sources** PHP. La **documentation** du code source (ie. les **commentaires**) est un des critères utilisés pour qualifier la **qualité** d’un code source. Il y a de nombreuses pratiques usitées, allant du code noyé à un code brut, vide de tout commentaire… La vérité se trouve probablement au *milieu.* En attendant de le trouver, je vous donne ici un avis *forcément subjectif* sur la question.
+Dans le cadre de mon activité en [centre de service PHP](https://www.nicolashachet.com/blog/gestion-de-projets/ssii-et-centre-de-services-php/ "SSII et centre de services PHP"), je réalise régulièrement des **audits de codes sources** PHP. La **documentation** du code source (ie. les **commentaires**) est un des critères utilisés pour qualifier la **qualité** d’un code source. Il y a de nombreuses pratiques usitées, allant du code noyé à un code brut, vide de tout commentaire… La vérité se trouve probablement au *milieu.* En attendant de le trouver, je vous donne ici un avis *forcément subjectif* sur la question.
 
 ## Quel est le but d’un commentaire ?
 

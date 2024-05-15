@@ -15,7 +15,7 @@ tags:
     - Android
 ---
 
-Il y a quelques temps, je vous expliquais comment [**connecter son ordinateur à Internet via la 4G**](https://blog.nicolashachet.com/telephone/connecter-son-ordinateur-a-internet-via-la-4g-de-son-telephone/) de son téléphone portable en utilisant le **port USB** de son téléphone ou en connectant son ordinateur à un **réseau Wifi** créé avec son téléphone. Il est désormais possible de **connecter son ordinateur et son téléphone en bluetooth** pour profiter de la connexion **4G** ou **5G** de son téléphone. Ça fonctionne également avec les connexions 3G, H+, etc.
+Il y a quelques temps, je vous expliquais comment [**connecter son ordinateur à Internet via la 4G**](https://www.nicolashachet.com/blog/telephone/connecter-son-ordinateur-a-internet-via-la-4g-de-son-telephone/) de son téléphone portable en utilisant le **port USB** de son téléphone ou en connectant son ordinateur à un **réseau Wifi** créé avec son téléphone. Il est désormais possible de **connecter son ordinateur et son téléphone en bluetooth** pour profiter de la connexion **4G** ou **5G** de son téléphone. Ça fonctionne également avec les connexions 3G, H+, etc.
 
 ## Connecter son ordinateur à son mobile 4G ou 5G par bluetooth
 

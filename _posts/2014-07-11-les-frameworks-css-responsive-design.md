@@ -15,7 +15,7 @@ tags:
     - 'Responsive Design'
 ---
 
-Dans un article précédent, je vous indiquais [pourquoi le responsive design est indispensable](https://blog.nicolashachet.com/ergonomie-design/projet-web-pourquoi-le-responsive-design-devrait-etre-votre-priorite/ "Pourquoi le responsive design devrait être votre priorité ?") au succès de votre projet Web. Aujourd’hui, nous voyons les **frameworks CSS** libres et gratuits permettant de mettre en oeuvre un **design adaptatif** !
+Dans un article précédent, je vous indiquais [pourquoi le responsive design est indispensable](https://www.nicolashachet.com/blog/ergonomie-design/projet-web-pourquoi-le-responsive-design-devrait-etre-votre-priorite/ "Pourquoi le responsive design devrait être votre priorité ?") au succès de votre projet Web. Aujourd’hui, nous voyons les **frameworks CSS** libres et gratuits permettant de mettre en oeuvre un **design adaptatif** !
 
 La liste ci-dessous n’est pas exhaustive mais recense les principales librairies open-source que vous pourrez utiliser pour faire des responsives. L’autre solution est de faire du responsive à la main en utilisant les **media queries**, introduites par CSS3, mais c’est une autre histoire que nous verrons plus tard… Pour l’heure, place aux frameworks CSS !
 

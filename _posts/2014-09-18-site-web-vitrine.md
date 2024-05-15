@@ -28,7 +28,7 @@ Un site vitrine est un ensemble de **pages Web statiques** présentant une entre
 
 Le site vitrine a pour seul objectif d’être présent sur Internet. Etre présent signifie qu’en tapant l’adresse URL du site Web, un client potentiel vous trouvera (s’il se donne la peine de taper votre URL, c’est très bon signe). Malheureusement, 99% des clients saisiront le nom de votre entreprise dans un moteur de recherche. Et là, être **présent** ne suffira plus, il faudra être **visible**, c’est à dire apparaître en bonne place dans les résultats de recherche. Pour vous en convaincre, saisissez le *nom de votre entreprise* dans Google et découvrez la concurrence…
 
-→ [En savoir plus sur la différence entre présence et visibilité sur le Web](https://blog.nicolashachet.com/webmarketing/quelle-difference-entre-presence-et-visibilite-sur-le-web/ "Quelle différence entre présence et visibilité sur le Web ?").
+→ [En savoir plus sur la différence entre présence et visibilité sur le Web](https://www.nicolashachet.com/blog/webmarketing/quelle-difference-entre-presence-et-visibilite-sur-le-web/ "Quelle différence entre présence et visibilité sur le Web ?").
 
 ## Technologies pour réaliser un site vitrine
 
@@ -42,7 +42,7 @@ Le **développement d’un site vitrine** est relativement simple, que ce soit s
 
 Lors de la réalisation, n’oubliez pas que l’ordinateur de bureau n’est plus le seul moyen d’accès au Web. Pensez aux smartphones, tablettes et autres "phablets" qu’il est indispensable de prendre en compte lors du développement de votre site. Cette contrainte "**responsive design**" vous permettra de toucher une audience plus large.
 
-→ [En savoir plus sur pourquoi le responsive design est important](https://blog.nicolashachet.com/ergonomie-design/projet-web-pourquoi-le-responsive-design-devrait-etre-votre-priorite/ "Projet Web : pourquoi le responsive design devrait être votre priorité ?").
+→ [En savoir plus sur pourquoi le responsive design est important](https://www.nicolashachet.com/blog/ergonomie-design/projet-web-pourquoi-le-responsive-design-devrait-etre-votre-priorite/ "Projet Web : pourquoi le responsive design devrait être votre priorité ?").
 
 ## Limites du site vitrine
 

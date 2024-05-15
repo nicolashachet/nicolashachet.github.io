@@ -40,12 +40,12 @@ C’est bien connu : l’habit fait le moine. Le Web ne déroge pas à la règle
 
 Quand vous développez votre design, n’oubliez pas le **responsive design**, c’est à dire l’adaptation de l’interface sur les périphériques mobiles : smartphones et tablettes. C’est désormais une des clefs pour réussir son site e-commerce. On parle alors de m-commerce.
 
-→ [Pourquoi le responsive design devrait être votre priorité ?](https://blog.nicolashachet.com/ergonomie-design/projet-web-pourquoi-le-responsive-design-devrait-etre-votre-priorite/ "Projet Web : pourquoi le responsive design devrait être votre priorité ?")
+→ [Pourquoi le responsive design devrait être votre priorité ?](https://www.nicolashachet.com/blog/ergonomie-design/projet-web-pourquoi-le-responsive-design-devrait-etre-votre-priorite/ "Projet Web : pourquoi le responsive design devrait être votre priorité ?")
 
 ## 4. Optimiser les performances
 
-Un **site Web lent**, c’est un site Web qui ne vend pas : la catastrophe pour un site e-commerce. Les chiffres sont clairs : près de 25% des internautes quittent un site e-commerce car les pages Web se chargent trop lentement. La rapidité de chargement des pages est également un signe extérieur de bonne santé de l’entreprise. C’est par ailleurs un vecteur de confiance entre l’utilisateur et le site e-commerce. Ne négligez donc jamais les performances de votre [présence Web](https://blog.nicolashachet.com/webmarketing/quelle-difference-entre-presence-et-visibilite-sur-le-web/ "Quelle différence entre présence et visibilité sur le Web ?"). Il en va de votre image de marque.
+Un **site Web lent**, c’est un site Web qui ne vend pas : la catastrophe pour un site e-commerce. Les chiffres sont clairs : près de 25% des internautes quittent un site e-commerce car les pages Web se chargent trop lentement. La rapidité de chargement des pages est également un signe extérieur de bonne santé de l’entreprise. C’est par ailleurs un vecteur de confiance entre l’utilisateur et le site e-commerce. Ne négligez donc jamais les performances de votre [présence Web](https://www.nicolashachet.com/blog/webmarketing/quelle-difference-entre-presence-et-visibilite-sur-le-web/ "Quelle différence entre présence et visibilité sur le Web ?"). Il en va de votre image de marque.
 
-→ [En savoir plus sur comment optimiser les performances de son site Web ?](https://blog.nicolashachet.com/fonctionnement-du-web/optimiser-les-performances-de-son-site-web-google/ "Optimiser les performances de son site Web")
+→ [En savoir plus sur comment optimiser les performances de son site Web ?](https://www.nicolashachet.com/blog/fonctionnement-du-web/optimiser-les-performances-de-son-site-web-google/ "Optimiser les performances de son site Web")
 
 Vous l’aurez compris, le succès d’un site e-commerce réside également dans des facteurs techniques. Loin de garantir le succès de votre plateforme, leur maitrise est nécessaire. Sachez donc vous entourez d’une équipe compétente pour maximiser vos chances de succès !

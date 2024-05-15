@@ -16,7 +16,7 @@ tags:
     - PHP
 ---
 
-Après un petit détour par le [responsive design](https://blog.nicolashachet.com/ergonomie-design/les-frameworks-css-responsive-design/ "Les frameworks CSS responsive design"), retour à la technique avec un article sur **comment optimiser un import PHP** (ou un traitement batch). En effet, les imports de données sont des traitements bien particuliers qui nécessitent des techniques de développement spécifiques si vous souhaitez des **performances** acceptables. Tour d’horizon des règles à respecter pour optimiser vos traitements et imports PHP !
+Après un petit détour par le [responsive design](https://www.nicolashachet.com/blog/ergonomie-design/les-frameworks-css-responsive-design/ "Les frameworks CSS responsive design"), retour à la technique avec un article sur **comment optimiser un import PHP** (ou un traitement batch). En effet, les imports de données sont des traitements bien particuliers qui nécessitent des techniques de développement spécifiques si vous souhaitez des **performances** acceptables. Tour d’horizon des règles à respecter pour optimiser vos traitements et imports PHP !
 
 *Dans cette article je prends comme exemple un import basique d’articles liés à des catégories. Nous imaginons une règle de gestion simple :*
 

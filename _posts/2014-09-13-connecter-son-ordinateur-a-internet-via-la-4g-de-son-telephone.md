@@ -32,8 +32,8 @@ Notez que si vous n’êtes pas couvert par la 4G, la connexion 3G prendra le re
 
 <span style="text-decoration: underline;">Notes si vous ne trouvez pas le menu **Partage connex. &amp; pt accès mobile** </span>:
 
-- Si vous disposez d’un menu "**Point d’accès et modem"** à la place du menu **Partage connex. &amp; pt accès mobile,** rendez-vous sur [cet article décrivant comment connecter son ordinateur à Internet via son portable 3G sans téléchargement](https://blog.nicolashachet.com/telephone/connecter-un-telephone-android-a-un-pc/ "Connecter un téléphone android à un pc sans téléchargement (tethering)").
-- Si vous ne disposez ni du menu **Partage connex. &amp; pt accès mobile** ni du menu **Point d’accès et modem** sur votre téléphone mobile, [rendez-vous sur cet article permettant d’avoir Internet via son portable en tethering](https://blog.nicolashachet.com/niveaux/debutant/connecter-son-ordinateur-a-internet-via-son-telephone-portable-android-3g/ "Connecter son ordinateur à Internet via son téléphone portable Android 3G (tethering)").
+- Si vous disposez d’un menu "**Point d’accès et modem"** à la place du menu **Partage connex. &amp; pt accès mobile,** rendez-vous sur [cet article décrivant comment connecter son ordinateur à Internet via son portable 3G sans téléchargement](https://www.nicolashachet.com/blog/telephone/connecter-un-telephone-android-a-un-pc/ "Connecter un téléphone android à un pc sans téléchargement (tethering)").
+- Si vous ne disposez ni du menu **Partage connex. &amp; pt accès mobile** ni du menu **Point d’accès et modem** sur votre téléphone mobile, [rendez-vous sur cet article permettant d’avoir Internet via son portable en tethering](https://www.nicolashachet.com/blog/niveaux/debutant/connecter-son-ordinateur-a-internet-via-son-telephone-portable-android-3g/ "Connecter son ordinateur à Internet via son téléphone portable Android 3G (tethering)").
 
 [![android-connecter-portable-4g](/wp-content/uploads/2014/09/android-connecter-portable-4g.png)](/wp-content/uploads/2014/09/android-connecter-portable-4g.png)
 

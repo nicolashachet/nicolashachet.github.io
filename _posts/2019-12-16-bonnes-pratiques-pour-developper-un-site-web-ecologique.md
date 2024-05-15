@@ -13,7 +13,7 @@ categories:
     - 'GreenIT'
 ---
 
-L’impact écologique des services informatiques est désormais connu. En prenant conscience des conséquences environnementales des outils informatiques, l’**écologique numérique** prend tout son sens. Lorsqu’on développe un site Internet, une application ou tout autre service informatique, nous avons vu que l’[éco-conception nécessite une prise en compte au plus tôt dans le projet](https://blog.nicolashachet.com/ecologie/comment-concevoir-un-site-internet-ecologique/). Aujourd’hui, abordons les **bonnes pratiques à respecter pour développer un site Web écologique**.
+L’impact écologique des services informatiques est désormais connu. En prenant conscience des conséquences environnementales des outils informatiques, l’**écologique numérique** prend tout son sens. Lorsqu’on développe un site Internet, une application ou tout autre service informatique, nous avons vu que l’[éco-conception nécessite une prise en compte au plus tôt dans le projet](https://www.nicolashachet.com/blog/ecologie/comment-concevoir-un-site-internet-ecologique/). Aujourd’hui, abordons les **bonnes pratiques à respecter pour développer un site Web écologique**.
 
 ## Objectif : réduire les ressources utilisées par le site
 
@@ -23,7 +23,7 @@ L’objectif est simple : il faut **réduire la consommation d’énergie**, don
 - Diminuer le volume de données échangées,
 - Limiter les traitements, notamment coté serveur.
 
-En 2012, j’écrivais l’article [Optimiser les performances de son site Web](https://blog.nicolashachet.com/developpement-php/optimiser-les-performances-de-son-site-web-google/), dans le contexte de sobriété numérique, il n’a pas bougé d’un iota…
+En 2012, j’écrivais l’article [Optimiser les performances de son site Web](https://www.nicolashachet.com/blog/developpement-php/optimiser-les-performances-de-son-site-web-google/), dans le contexte de sobriété numérique, il n’a pas bougé d’un iota…
 
 ## Utilisez un référentiel de bonnes pratiques pour l’écologie numérique
 
@@ -31,7 +31,7 @@ Avant de rentrer dans le vif du sujet, sachez qu’il existe un référentiel de
 
 ## Utilisez les caches navigateurs
 
-Première étape vers un site moins consommateur : **utilisez du cache**. Ou plutôt des caches ! En 2014, je vous expliquais qu’il existe une multitude de [mécanismes de cache permettant d’optimiser les performances de votre site](https://blog.nicolashachet.com/developpement-php/optimisation-web-php-des-caches-a-tous-les-niveaux/). Ce point est crucial : un site Web moderne pèse plusieurs Mo, voire dizaine de Mo pour les plus gourmands. En utilisant les caches mis à notre disposition, on évite le transfert de nombreux fichiers durant la navigation.
+Première étape vers un site moins consommateur : **utilisez du cache**. Ou plutôt des caches ! En 2014, je vous expliquais qu’il existe une multitude de [mécanismes de cache permettant d’optimiser les performances de votre site](https://www.nicolashachet.com/blog/developpement-php/optimisation-web-php-des-caches-a-tous-les-niveaux/). Ce point est crucial : un site Web moderne pèse plusieurs Mo, voire dizaine de Mo pour les plus gourmands. En utilisant les caches mis à notre disposition, on évite le transfert de nombreux fichiers durant la navigation.
 
 Vous devez jouer sur les niveaux de caches suivants :
 

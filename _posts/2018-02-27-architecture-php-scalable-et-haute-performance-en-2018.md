@@ -15,7 +15,7 @@ tags:
     - 'Architecture Technique'
 ---
 
-Il y a 4 ans, je vous présentais quelques [outils permettant de mettre en place un site Web fort trafic](https://blog.nicolashachet.com/architecture-2/quelle-architecture-logicielle-pour-un-site-web-fort-trafic/). C’est l’heure de mettre à jour cette **architecture PHP** en version 2018 ! Il s’agit d’un article contenant quelques pistes sur les principaux composants logiciels à utiliser afin d’obtenir des performances optimales sur votre socle PHP.
+Il y a 4 ans, je vous présentais quelques [outils permettant de mettre en place un site Web fort trafic](https://www.nicolashachet.com/blog/architecture-2/quelle-architecture-logicielle-pour-un-site-web-fort-trafic/). C’est l’heure de mettre à jour cette **architecture PHP** en version 2018 ! Il s’agit d’un article contenant quelques pistes sur les principaux composants logiciels à utiliser afin d’obtenir des performances optimales sur votre socle PHP.
 
 Sans plus attendre, voici donc une architecture PHP autorisant la **montée en charge**, les **hautes performances** et la **scalabilité horizontale.** C’est à dire la capacité à ajouter des serveurs pour encaisser des pics d’utilisation.
 

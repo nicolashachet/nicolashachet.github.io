@@ -16,7 +16,7 @@ tags:
     - MegaUpload
 ---
 
-Je vous l’écrivais il y a quelques semaines : [MegaUpload ne rouvrira pas ses portes](https://blog.nicolashachet.com/2012/10/21/actualites/mega-est-il-vraiment-securise/ "Mega est-il vraiment sécurisé ?"), en tout cas pas sous la forme que nous connaissons. Kim Dotcom, le créateur des sites et *libérateur autoproclamé du Web*, dévoile petit à petit son nouveau bébé : **Mega, un gestionnaire sécurisé de fichiers**. Le 7 décembre 2012, il mettait en ligne sur son [compte Twitter](https://twitter.com/KimDotcom "@KimDotcom") des captures d’écran de la bête.
+Je vous l’écrivais il y a quelques semaines : [MegaUpload ne rouvrira pas ses portes](https://www.nicolashachet.com/blog/2012/10/21/actualites/mega-est-il-vraiment-securise/ "Mega est-il vraiment sécurisé ?"), en tout cas pas sous la forme que nous connaissons. Kim Dotcom, le créateur des sites et *libérateur autoproclamé du Web*, dévoile petit à petit son nouveau bébé : **Mega, un gestionnaire sécurisé de fichiers**. Le 7 décembre 2012, il mettait en ligne sur son [compte Twitter](https://twitter.com/KimDotcom "@KimDotcom") des captures d’écran de la bête.
 
 ### Image du générateur de clef RSA  
 

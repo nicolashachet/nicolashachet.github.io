@@ -7,14 +7,14 @@ layout: post
 guid: 'https://blog.nicolashachet.com/?p=3722'
 permalink: /blog/numerique-responsable/la-sobriete-dans-lit-peut-elle-etre-desirable/
 
-image: /wp-content/uploads/2023/03/notebook-g27afcd0b7_640-573x382.jpg
+image: /wp-content/uploads/2023/03/notebook-g27afcd0b7_640.jpg
 categories:
     - 'GreenIT'
 ---
 
 La sobriété est le choix délibéré de renoncer à un usage. Elle se distingue de l’efficacité par le fait qu’elle induit un impact sur le service rendu à l’utilisateur.
 
-A ce sujet vous pouvez relire l’article [sobriété et efficacité : 2 leviers pour prendre en compte les enjeux environnements dans l’informatique. ](https://blog.nicolashachet.com/numerique-responsable/sobriete-et-efficacite-dans-lit-les-leviers-pour-concevoir-des-services-informatiques/)
+A ce sujet vous pouvez relire l’article [sobriété et efficacité : 2 leviers pour prendre en compte les enjeux environnements dans l’informatique. ](https://www.nicolashachet.com/blog/numerique-responsable/sobriete-et-efficacite-dans-lit-les-leviers-pour-concevoir-des-services-informatiques/)
 
 ## La sobriété désirable
 

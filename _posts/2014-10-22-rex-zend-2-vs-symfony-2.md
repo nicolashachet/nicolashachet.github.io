@@ -71,6 +71,6 @@ A noter que j’avais rencontré des problèmes similaires sur Symfony lors des 
 
 ## Un vainqueur en conclusion ?
 
-Pour moi, [il n’y a pas de meilleur framework PHP](https://blog.nicolashachet.com/frameworks/non-il-ny-a-pas-de-meilleur-framework-php/ "Non, il n’y a pas de meilleur framework PHP"). Cela étant, on peut sans problème dire que **Symfony 2 est plus mature** que Zend 2, et que, même si cela reste un framework complexe, son utilisation est facilitée par une très bonne documentation et une communauté importante et active. La similarité entre les deux s’arrête à l’architecture et à la philosophie modulaire.
+Pour moi, [il n’y a pas de meilleur framework PHP](https://www.nicolashachet.com/blog/frameworks/non-il-ny-a-pas-de-meilleur-framework-php/ "Non, il n’y a pas de meilleur framework PHP"). Cela étant, on peut sans problème dire que **Symfony 2 est plus mature** que Zend 2, et que, même si cela reste un framework complexe, son utilisation est facilitée par une très bonne documentation et une communauté importante et active. La similarité entre les deux s’arrête à l’architecture et à la philosophie modulaire.
 
 Le mieux est de vous faire votre opinion et je vous invite donc à télécharger les 2 releases et à tester les frameworks par vous même !

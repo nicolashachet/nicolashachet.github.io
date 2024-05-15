@@ -48,4 +48,4 @@ Le centre de service est en **perpétuel amélioration** et se veut **perméable
 
 Le **centre de service PHP** s’adresse à toutes les entreprises : aux **PME** comme aux **grandes entreprises ou administrations**.
 
-Les offres sont multiples et vont de la[ prestation au forfait jusqu’à la TMA](https://blog.nicolashachet.com/2012/01/09/gestion-de-projets/ssii-quelles-differences-entre-developpement-au-forfait-placement-en-regie-et-tma/). Si vous souhaitez plus d’infos, [contactez-moi](https://blog.nicolashachet.com/contact/ "Contact") ou laissez un commentaire.
+Les offres sont multiples et vont de la[ prestation au forfait jusqu’à la TMA](https://www.nicolashachet.com/blog/2012/01/09/gestion-de-projets/ssii-quelles-differences-entre-developpement-au-forfait-placement-en-regie-et-tma/). Si vous souhaitez plus d’infos, [contactez-moi](https://www.nicolashachet.com/blog/contact/ "Contact") ou laissez un commentaire.

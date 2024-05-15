@@ -53,7 +53,7 @@ L’objectif du dispositif est de partager librement des informations. A votre c
 
 Vous trouverez de l’information sur la toile :
 
-- [Tutoriel illustré pour installer sa PirateBox par cher !](https://blog.nicolashachet.com/2012/04/01/fonctionnement-du-web/tutoriel-installer-une-piratebox-en-images/)
+- [Tutoriel illustré pour installer sa PirateBox par cher !](https://www.nicolashachet.com/blog/2012/04/01/fonctionnement-du-web/tutoriel-installer-une-piratebox-en-images/)
 - [Fabriquer sa PirateBox pour moins de 50€](https://wiki.daviddarts.com/PirateBox_DIY)
 - [Carte des PirateBox en circulation](https://mypiratebox.com/)
 - [PirateBox à Lille (tutos d’installation en français)](https://piratebox.c.la/)

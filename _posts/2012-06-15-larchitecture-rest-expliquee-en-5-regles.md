@@ -203,7 +203,7 @@ GET /books?user=123&hash=456894ds4q15sdq156sd1qsd1qsd156156
 
 Pour aller plus loin, je vous présente quelques exemples d’API REST.
 
-[Exemples d’API REST en PHP](https://blog.nicolashachet.com/developpement-php/exemples-api-rest-en-php/)
+[Exemples d’API REST en PHP](https://www.nicolashachet.com/blog/developpement-php/exemples-api-rest-en-php/)
 
 <iframe class="wp-embedded-content" data-secret="MX0Dg9yjOi" frameborder="0" height="338" marginheight="0" marginwidth="0" sandbox="allow-scripts" scrolling="no" security="restricted" src="https://blog.nicolashachet.com/developpement-php/exemples-api-rest-en-php/embed/#?secret=MX0Dg9yjOi" style="position: absolute; clip: rect(1px, 1px, 1px, 1px);" title="Exemples d’API REST en PHP — Blog de Nicolas Hachet" width="600"></iframe>
 
@@ -211,5 +211,5 @@ Pour aller plus loin, je vous présente quelques exemples d’API REST.
 
 Wikipedia : [https://fr.wikipedia.org/wiki/Representational_State_Transfer](https://fr.wikipedia.org/wiki/Representational_State_Transfer)  
 Gerald’s Blog : <https://www.croes.org/gerald/blog/qu-est-ce-que-rest/447/>  
-Slides de David Züelke au [Symfony Live 2012 Paris](https://blog.nicolashachet.com/2012/06/07/actualites/le-symfony-live-tour-2012-en-direct-de-paris/) : <https://goo.gl/Gc5nD>  
+Slides de David Züelke au [Symfony Live 2012 Paris](https://www.nicolashachet.com/blog/2012/06/07/actualites/le-symfony-live-tour-2012-en-direct-de-paris/) : <https://goo.gl/Gc5nD>  
 Site du W3C sur les entêtes HTTP : <https://www.w3.org/Protocols/rfc2616/rfc2616-sec14.html>

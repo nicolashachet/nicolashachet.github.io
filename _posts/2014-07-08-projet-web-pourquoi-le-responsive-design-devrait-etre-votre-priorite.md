@@ -57,4 +57,4 @@ Je sens que l’idée vous séduit mais vous imaginez déjà flamber 40% de votr
 
 Certes ce n’est pas rien, mais oublier de prendre en compte le responsive et tenter de corriger plus tard peut avoir des répercussions sur votre projet en termes d’architecture mais également en termes de business. Mieux vaut donc ne pas se louper.
 
-Non, vous n’avez pas d’excuse pour ne pas penser au design responsive. D’autant plus que [les frameworks CSS vous aidant dans cette tâche sont légions](https://blog.nicolashachet.com/ergonomie-design/les-frameworks-css-responsive-design/ "Les frameworks CSS responsive design") !
+Non, vous n’avez pas d’excuse pour ne pas penser au design responsive. D’autant plus que [les frameworks CSS vous aidant dans cette tâche sont légions](https://www.nicolashachet.com/blog/ergonomie-design/les-frameworks-css-responsive-design/ "Les frameworks CSS responsive design") !

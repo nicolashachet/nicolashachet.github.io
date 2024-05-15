@@ -16,7 +16,7 @@ tags:
     - Piratebox
 ---
 
-Ce tutoriel présente l’**installation et la configuration d’une [PirateBox](https://blog.nicolashachet.com/2012/03/28/fonctionnement-du-web/piratebox-le-partage-de-fichiers-via-reseau-wifi-local/)**, le dispositif de partage numérique libre, anonyme et gratuit. L’installation d’une **PirateBox** n’est pas si facile pour les non initiés, l’idée est donc d’illustrer le tuto afin de rendre l’installation de la PirateBox plus simple. Prévoyez environ 1h pour monter votre PirateBox de A à Z.
+Ce tutoriel présente l’**installation et la configuration d’une [PirateBox](https://www.nicolashachet.com/blog/2012/03/28/fonctionnement-du-web/piratebox-le-partage-de-fichiers-via-reseau-wifi-local/)**, le dispositif de partage numérique libre, anonyme et gratuit. L’installation d’une **PirateBox** n’est pas si facile pour les non initiés, l’idée est donc d’illustrer le tuto afin de rendre l’installation de la PirateBox plus simple. Prévoyez environ 1h pour monter votre PirateBox de A à Z.
 
 Ce tutoriel est basé sur le tuto de [David Darts, le créateur de PirateBox](https://wiki.daviddarts.com/PirateBox_DIY_OpenWrt).
 
@@ -273,6 +273,6 @@ Si votre PirateBox est lente avec la shoutbox (chat), modifier le fichier **/etc
 
 ## Mettre à jour sa PirateBox en version 0.5.1
 
-Suite à cette installation, vous pouvez mettre à jour votre PirateBox en version 0.5.1. Je vous invite à découvrir le [tuto de mise à jour en PB 0.5.1](https://blog.nicolashachet.com/2012/10/03/fonctionnement-du-web/tutoriel-mettre-a-jour-sa-piratebox-en-version-0-5-1/).  
+Suite à cette installation, vous pouvez mettre à jour votre PirateBox en version 0.5.1. Je vous invite à découvrir le [tuto de mise à jour en PB 0.5.1](https://www.nicolashachet.com/blog/2012/10/03/fonctionnement-du-web/tutoriel-mettre-a-jour-sa-piratebox-en-version-0-5-1/).  
 Il est également possible de remplacer l’étape d’installation de la PirateBox de ce tuto par l’action 7 du tuto de mise à jour.
 

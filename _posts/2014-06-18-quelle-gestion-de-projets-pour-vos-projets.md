@@ -36,4 +36,4 @@ Enfin, les méthodes dîtes classiques telles que le **développement en cascade
 
 En tout cas, merci à tous les participants ! Et n’hésitez pas à voter sur le prochain sondage : "<span style="color: #008000;">Comment chiffrez-vous vos projets Web ?</span>".
 
-Terminons en humour avec [quelques images sur la gestion de projets en entreprise.](https://blog.nicolashachet.com/gestion-de-projets/humour-infographie-la-gestion-de-projets-en-entreprise/ "[Humour infographie] La gestion de projets en entreprise").. 😉
+Terminons en humour avec [quelques images sur la gestion de projets en entreprise.](https://www.nicolashachet.com/blog/gestion-de-projets/humour-infographie-la-gestion-de-projets-en-entreprise/ "[Humour infographie] La gestion de projets en entreprise").. 😉

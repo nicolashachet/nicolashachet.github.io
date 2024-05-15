@@ -81,4 +81,4 @@ A noter qu’il est possible de déférer le chargement des javascripts après l
 
 Ces quelques conseils n’ont pas vocation à être exhaustifs. Il convient à chacun de trouver les parades pour optimiser son site Web selon ses besoins, ses objectifs et son budget. N’hésitez pas à commenter si vous avez d’autres astuces.
 
-Pour des [astuces sur l’optimisation PHP, vous trouverez un article ici](https://blog.nicolashachet.com/2012/09/26/technologies/php/optimiser-les-performances-de-son-code-php/) !
+Pour des [astuces sur l’optimisation PHP, vous trouverez un article ici](https://www.nicolashachet.com/blog/2012/09/26/technologies/php/optimiser-les-performances-de-son-code-php/) !
