@@ -1,4 +1,15 @@
 <footer>
-  <small>&copy; <time datetime="{{ site.time | date_to_xmlschema }}">{{ site.time | date: '%Y' }}</time>
-    {{ site.author.name }}. {{ site.author.website }}</small>
+
+  <small>
+    <a href="/">{% include svg/home.svg %}</a>
+
+    &middot;
+
+    <a href="/legal">Mentions légales</a>
+  </small>
+
+  &middot;
+
+  <small>&copy;<time datetime="{{ site.time | date_to_xmlschema }}">{{ site.time | date: '%Y' }}</time>
+  {{ site.author.name }}. {{ site.author.website }}</small>
 </footer>

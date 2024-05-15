@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang="fr">
 
-{% include head.html %}
+{% include _head.html %}
 
 <body>
 
@@ -10,29 +10,13 @@
 
   <div class="container">
     <div class="row justify-content-center">
-      <div class="col col-sm-10 col-md-8 col-lg-6">
+      <div class="col col-sm-11 col-md-9 col-lg-7">
         {{ content }}
       </div>
     </div>
   </div>
-  <script src="{{ '/assets/js/bootstrap.min.js' | prepend: site.url }}"></script>
-  {% if page.title != "404" %}
-  <script src="{{ '/assets/js/darkmode.js' | prepend: site.url }}"></script>
-  {% endif %}
-  {% if page.title == "Home" or page.title == "404" %}
-  <script src="assets/js/particles.min.js"></script>
-  <script src="assets/js/main.js"></script>
-  {% endif %}
 
-  <!-- Google tag (gtag.js) -->
-  <script async src="https://www.googletagmanager.com/gtag/js?id={{ site.ga }}"></script>
-  <script>
-    window.dataLayer = window.dataLayer || [];
-    function gtag(){dataLayer.push(arguments);}
-    gtag('js', new Date());
-    gtag('config', '{{ site.ga }}');
-  </script>
-
+  {% include _foot.html %}
 </body>
 
 </html>

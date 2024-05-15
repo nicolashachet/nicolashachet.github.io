@@ -18,11 +18,8 @@ phone:
 
 # social media links
 social:
-  #facebook: nicolashachet
   github: nicolashachet
-  instagram: nicolashachet
   linkedin: nicolas-hachet
-  #stackoverflow: 0000000/username
   x: nicolashachet
 
 # build settings
@@ -33,3 +30,7 @@ exclude:
   - README.md
   - .idea/
   - backup/
+
+# Plugins
+plugins:
+  - jekyll-sitemap

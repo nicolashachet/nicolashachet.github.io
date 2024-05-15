@@ -62,6 +62,18 @@
     transform: scale(1.8);
   }
 
+  .particles-icon-text {
+    font-size: 3em;
+    font-weight: 100;
+    color: #fff;
+    top: 0.15em;
+    position: relative;
+  }
+
+  .particles-black {
+    color: #343a40;
+  }
+
   svg circle,
   svg path {
     stroke: var(--color-particles-text) !important;
@@ -76,8 +88,14 @@
     svg path {
       stroke-width: 0.075em;
     }
+
+    .particles-icon-text {
+      font-weight: 500;
+    }
+
   }
 }
+
 
 .particles-scroll {
   position: absolute;

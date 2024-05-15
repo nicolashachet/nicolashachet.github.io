@@ -8,7 +8,7 @@ title: Parcours
 ## 2 activités pour 2 approches complémentaires
 
 ### En ESN
-Depuis 2007, j'exerce en tant qu'architecte d'entreprise dans une ESN Nantaise ambitieuse : **Inetum**. 
+Depuis 2007, j'exerce en tant qu'architecte d'entreprise dans une ESN française ambitieuse : **Inetum**. 
 
 J'interviens au sein de la **direction technique de la région Centre-Ouest** sur différentes activités : 
 - animer la communauté des 1600 collaborateurs de la région ;
@@ -19,14 +19,14 @@ J'interviens au sein de la **direction technique de la région Centre-Ouest** su
 
 
 ### En freelance
-Depuis 2011, j'ai également développé une activité complémentaire en **freelance** qui m'a permis de travailler sur des projets variés et de rencontrer des clients de tous horizons. Une superbe occasion de rencontrer des clients passionnés : créateurs de start-up, membres d'associations, dirigeants de TPE... mais également de s'inscrire dans des dispositifs plus larges pour des clients grands comptes.     
+Depuis 2011, j'ai également développé une activité complémentaire en **freelance** qui m'a permis de travailler sur des projets variés et de rencontrer des personnes de tous horizons. Une superbe occasion de rencontrer des gens passionnés : créateurs de start-up, membres d'associations, dirigeants de PME... mais également de s'inscrire dans des dispositifs plus larges pour des clients grands comptes.     
 
 
 ## Clients
 
 Difficile de lister l'ensemble des clients rencontrés depuis 2007. 
 
-Voici quelques exemples de clients du grand ouest pour lesquels j'ai eu l'occasion de travailler de près ou de loin :
+Voici quelques exemples de clients du Grand Ouest et de France pour lesquels j'ai eu l'occasion de travailler sur des missions variées :
 - La Poste (BGPN, i-team)
 - Orange
 - ADEME
