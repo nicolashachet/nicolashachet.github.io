@@ -50,6 +50,10 @@ blockquote {
   border-left: 0.1em solid var(--color-border);
   font-weight: 300;
   font-size: 2em;
+
+  em {
+    font-size: 0.7em;
+  }
 }
 
 mark {
@@ -76,4 +80,23 @@ table.table {
 
 .ml-2 {
   margin-left: 2em;
+}
+
+
+.bar {
+  height: 4px;
+  display: flex;
+  flex-direction: column;
+  flex-wrap: wrap;
+  span {
+    flex: 0 0 auto;
+    flex-basis: 100%;
+    max-width: 100%;
+    &:nth-child(1) { background-color: #ab16d2; }
+    &:nth-child(2) { background-color: #2196f3; }
+    &:nth-child(3) { background-color: #00bcd4; }
+    &:nth-child(4) { background-color: #8bc34a; }
+    &:nth-child(5) { background-color: #f57c00; }
+    &:nth-child(6) { background-color: #e64a19; }
+  }
 }
