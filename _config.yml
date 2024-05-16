@@ -20,7 +20,6 @@ phone:
 social:
   github: nicolashachet
   linkedin: nicolas-hachet
-  x: nicolashachet
 
 # build settings
 permalink: /:categories/:title # none # https://jekyllrb.com/docs/permalinks/#permalink-style-examples

@@ -3,8 +3,7 @@ layout: post
 title: Blog
 ---
 
-Retrouvez les articles de mon blog personnel : https://blog.nicolashachet.com.
-La plupart sont des articles archives rédigés sur des sujets techniques, les plus récents sont des posts linkedin. 
+Retrouvez les archives de mon blog personnel créé en 2011 (https://blog.nicolashachet.com) cumulant 3 millions de visiteurs uniques pour 4,5 millions de pages vues au total. 
 
 {% for post in site.posts %}
 <div class="mb-2">
