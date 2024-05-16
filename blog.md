@@ -3,8 +3,8 @@ layout: post
 title: Blog
 ---
 
-Retrouvez les articles issues du blog https://blog.nicolashachet.com.
-La plupart sont des archives d'articles rédigés sur des sujets techniques, certains sont des posts linkedin plus récents 
+Retrouvez les articles de mon blog personnel : https://blog.nicolashachet.com.
+La plupart sont des articles archives rédigés sur des sujets techniques, les plus récents sont des posts linkedin. 
 
 {% for post in site.posts %}
 <div class="mb-2">

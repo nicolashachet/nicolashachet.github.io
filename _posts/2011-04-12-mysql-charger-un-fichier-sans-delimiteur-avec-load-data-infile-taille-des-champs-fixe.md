@@ -33,7 +33,7 @@ Voici un fichier de test (/home/nhac/utilisateurs.import):
 
 L’astuce pour charger le fichier sous MySQL est d’indiquer **CHARSET ‘latin1’** lors de la création de la table. En effet, si vous spécifiez **CHARSET ‘UTF8’**, le chargement ne se fera pas correctement.
 
-[sql]  
+```sql  
 — Creation de la table cible  
 DROP TABLE IF EXISTS utilisateurs;  
 CREATE TABLE IF NOT EXISTS utilisateurs (  
@@ -49,7 +49,7 @@ INTO TABLE utilisateurs
 (  
  `id`, `nom`, `prenom`  
 );  
-[/sql]
+````
 
 Rien ne vous empêche de transférer ces données encodées en **latin1** vers une table en **UTF8** après l’import.
 

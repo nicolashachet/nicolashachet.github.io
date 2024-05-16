@@ -22,7 +22,7 @@ La table a la structure suivante : id, ordre, code
 La contrainte d’unicité est placée sur le champ ordre.
 
 **Script de création de la table**  
-[sql]  
+```sql  
 CREATE TABLE `test` (  
 `id` SMALLINT NOT NULL ,  
 `ordre` SMALLINT NOT NULL ,  
@@ -30,29 +30,29 @@ CREATE TABLE `test` (
 ) ENGINE = MYISAM;
 
 ALTER TABLE `test` ADD UNIQUE (`ordre`);  
-[/sql]
+````
 
 Afin d’illustrer mon propos, voici un jeu de données permettant de reproduire l’exemple.  
 **Jeu de données**  
-[sql]  
+```sql  
 INSERT INTO `test` (`id` ,`ordre` ,`code`) VALUES  
 (‘1’, ‘1’, ‘A0’),  
 (‘2’, ‘2’, ‘A1’),  
 (‘3’, ‘3’, ‘A2’);  
-[/sql]
+````
 
 ## Mise à jour séquentielle des données 
 
 Imaginons que nous voulions déplacer les lignes dont l’ordre est supérieur ou égal à 2 afin d’insérer un enregistrement à la place. Instinctivement nous écrivons une requête comme celle-ci :
 
-[sql]  
+```sql  
 UPDATE test SET ordre = ordre + 1 WHERE ordre >= 2;  
-[/sql]
+````
 
 Et voici la réponse de MySQL :  
-[sql]  
+```sql  
 \#1062 – Duplicate entry ‘3’ for key ‘ordre’  
-[/sql]
+````
 
 **Logique, MySQL exécute ligne à ligne les updates et vérifient après chaque enregistrement les contraintes sur les données.** Argh, que faire ?
 
@@ -61,12 +61,12 @@ Et voici la réponse de MySQL :
 La solution se trouve sur la doc MySQL : le cas de figure a été prévu. Il est en effet possible de spécifier l’ordre dans lequel seront traitées les lignes. On utilise pour cela la clause ORDER BY, plus connu avec un SELECT mais qui fonctionne également très bien avec l’UPDATE. Ainsi, notre requête peut s’exécuter sans problème.
 
 **La requête correcte**  
-[sql]  
+```sql  
 UPDATE test SET ordre = ordre + 1 WHERE ordre >= 2 ORDER BY ordre DESC;  
-[/sql]  
-[sql]  
+````  
+```sql  
 Nombre d’enregistrements affectés : 2 (Traitement en 0.0004 sec.)  
-[/sql]
+````
 
 Le tour est joué ! MySQL a bien modifié nos données selon notre volonté.
 
