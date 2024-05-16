@@ -49,6 +49,7 @@ blockquote {
   padding-left: 1em;
   border-left: 0.1em solid var(--color-border);
   font-weight: 300;
+  font-size: 2em;
 }
 
 mark {
@@ -71,4 +72,8 @@ img {
 
 table.table {
   color: var(--color-text);
+}
+
+.ml-2 {
+  margin-left: 2em;
 }

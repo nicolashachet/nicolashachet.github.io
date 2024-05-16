@@ -48,6 +48,16 @@ Voici quelques exemples de clients du Grand Ouest et de France pour lesquels j'a
 - ...
 
 
+## Faisons connaissance
+
+N'hésitez pas à consulter mon parcours sur **linkedin** et lancer une discussion pour faire plus ample connaissance.
+
+<div class="jumbotron">
+    <a href="https://www.linkedin.com/in/{{ site.social.linkedin }}">
+        {% include svg/linkedin.svg %} {{ site.social.linkedin }}
+    </a>
+</div>
+
 ## Contact
 
 {% include contact.html %}
