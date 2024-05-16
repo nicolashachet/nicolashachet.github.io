@@ -27,12 +27,12 @@ Les deux balises précises quelle est la relation de la cible du lien, la valeur
 
 **Un exemple vaut mieux qu’un long discours**
 
-[html]  
+```html
 Page d’accueil : <a href="table_matieres.html" rel="contents">Table des matières</a>
 
 Page article – Retour : <a href="table_matieres.html" rev="contents">Retour à la table des matières</a>  
 Page article – Chapitre 1 : <a href="chapitre1.html" rel="chapter">Chapitre 1</a>  
-[/html]
+```
 
 **REV indique donc une relation inverse à REL.**
 

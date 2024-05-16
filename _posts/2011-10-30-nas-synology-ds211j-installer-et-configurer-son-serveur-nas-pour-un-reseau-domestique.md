@@ -10,7 +10,7 @@ categories:
     - 'NAS'
 ---
 
-[![NAS Synology DS211j](/wp-content/uploads/2011/10/1-286x300.png "NAS Synology DS211j")](/wp-content/uploads/2011/10/1.png)NAS Synology DS211j
+[![NAS Synology DS211j](/wp-content/uploads/2011/10/1.png "NAS Synology DS211j")](/wp-content/uploads/2011/10/1.png)NAS Synology DS211j
 
 Au coeur du réseau, le NAS (Network Attached Storage) offre des possibilités sans limite : stockage de photos, vidéos, musiques, radios, téléchargements, etc. J’ai testé pour vous l’installation et la mise en place d’un serveur NAS **Synology DS211j** pour mon réseau domestique. Ordinateurs, consoles de jeux, téléphones portables et utilisation à distance sont au menu de cet article.
 
@@ -29,7 +29,7 @@ Tout ce petit monde va donc être connecté au serveur NAS via mon réseau inter
 
 ## Installation du serveur
 
-[![Synology](/wp-content/uploads/2011/10/2-150x150.png "Synology")](/wp-content/uploads/2011/10/2.png)Synology
+[![Synology](/wp-content/uploads/2011/10/2.png "Synology")](/wp-content/uploads/2011/10/2.png)Synology
 
 Après déballage, l’installation du Synology DS211j est très simple. La notice d’installation sur CD-Rom accompagnant le serveur est claire et ne nécessite aucune connaissance particulière.  
 Une fois les disques mis en place et le serveur connecté au réseau, vous devrez cependant installer le DSM du serveur (téléchargeable sur le site de Synology), c’est en quelques sortes son système d’exploitation. Il vous faudra compter sur une vingtaine de minutes pour cela.
@@ -46,7 +46,7 @@ Le NAS propose de créer une arborescence de fichiers et d’y autoriser l’acc
 Pour profiter de cette fonctionnalité, il suffit de créer des utilisateurs sur l’interface d’administration et de leur donner des droits de lecture/écriture sur les dossiers de votre choix.  
 Les utilisateurs ne voient alors que les fichiers sur lesquels ils ont une autorisation.
 
-[![Panneaude configuration](/wp-content/uploads/2011/10/3-300x171.png "Interface de configuration")](/wp-content/uploads/2011/10/3.png)Synology DS211j – Interface de configuration
+[![Panneaude configuration](/wp-content/uploads/2011/10/3.png "Interface de configuration")](/wp-content/uploads/2011/10/3.png)Synology DS211j – Interface de configuration
 
 ## Configuration et paramétrage des ordinateurs du réseau
 
@@ -58,13 +58,13 @@ A noter que, par défault, le nom réseau du serveur est **DiskStation**. Ainsi 
 
 Vous pouvez alors vous connecter simplement via le système de fichiers Windows (ou Mac ou Linux).
 
-[![Emplacement réseau sous Windows 7](/wp-content/uploads/2011/10/4-300x54.png "Emplacement réseau sous Windows 7")](/wp-content/uploads/2011/10/4.png)Emplacement réseau sous Windows 7
+[![Emplacement réseau sous Windows 7](/wp-content/uploads/2011/10/4.png "Emplacement réseau sous Windows 7")](/wp-content/uploads/2011/10/4.png)Emplacement réseau sous Windows 7
 
 ## Connecter tous les appareils de votre réseau interne
 
 Grâce à la certification DLNA, votre serveur NAS Synology fait office de disque dur pour tous vos appareils supportant cette norme. Consoles de jeux, lecteurs DVD, télévisions, tous vos appareils peuvent désormais se connecter au serveur afin d’y lire les fichiers photos, audios et vidéos (avec les sous-titres) ! Il faut activer la fonction DLNA sur votre serveur et effectuer une recherche de serveur sur les appareils à synchroniser. Voici un exemple avec une Sony PS3 :
 
-[![Playstation 3 et synology ds211j](/wp-content/uploads/2011/10/5-300x176.png "Playstation 3 & synology ds211j")](/wp-content/uploads/2011/10/5.png)Le NAS Synology DS211j est compatible avec la PS3 de Sony
+[![Playstation 3 et synology ds211j](/wp-content/uploads/2011/10/5.png "Playstation 3 & synology ds211j")](/wp-content/uploads/2011/10/5.png)Le NAS Synology DS211j est compatible avec la PS3 de Sony
 
 Le serveur est reconnu automatiquement et les données sont accessibles très facilement via la XMB de Sony : musique, photos, vidéos, divX, tout est lisible sur votre Sony PS3 ! 🙂
 

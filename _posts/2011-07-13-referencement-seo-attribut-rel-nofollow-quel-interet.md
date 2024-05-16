@@ -16,9 +16,9 @@ tags:
 
 Initialement, la valeur **nofollow** est placée sur une balise **meta** via l’attribut **content**. Cette directive s’applique à l’ensemble de la page puisqu’elle est placée dans l’entête **head** du fichier HTML. Elle permet d’indiquer aux moteurs de recherche de ne suivre aucun lien externe présent sur la page. Ainsi, le pagerank des sites cibles n’est pas majoré par le lien placé sur le site source.
 
-[html]  
+```html
 <meta name="robots" content="nofollow" />  
-[/html]
+```
 
 ## Intérêt du rel=nofollow
 
