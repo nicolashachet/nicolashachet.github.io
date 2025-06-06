@@ -1,10 +1,10 @@
 # site settings
 title: Nicolas Hachet
-description: Architecte d'entreprise
+description: CTO / Directeur Technique
 baseurl: ""
 url: https://www.nicolashachet.com
-taglong: Architecte d'entreprise à Nantes
-tagshort: Architecte d'entreprise
+taglong: Directeur Technique à Nantes
+tagshort: Directeur Technique
 ga: G-RWKL2Z7WQ7
 
 # author settings
